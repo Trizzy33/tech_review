@@ -20,6 +20,7 @@ BERT is based on the Transformer encoders. The [paper](https://arxiv.org/pdf/181
 *BERT-Base: 12-layer, 768-hidden-nodes, 12-attention-heads, 110M parameters*
 
 *BERT-Large: 24-layer, 1024-hidden-nodes, 16-attention-heads, 340M*
+
 ![](encoderlayer.png)
 
 ### 3.2 Pre-train Phase
