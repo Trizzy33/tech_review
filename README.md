@@ -5,7 +5,9 @@
 
 ## 2. The core ideas behind BERT
 The previous language models, such as n-grams models, are limited by the left-to-right or right-to-left direction methods, which made the models not able to extract **non-directional** contextual information from the language. In the following graph, both sentences contain the word 'bank', but they represent completely different meanings, and it would not be correct recognized by normal language models.
+
 ![](lang.png)
+
 BERT is mainly based on **MLM(Masked Language Model)** and **Transformer** and for pre-training and the model structure. **Transformer** can be read more from this [article](https://jalammar.github.io/illustrated-transformer/).
 
 ## 3. Framework
